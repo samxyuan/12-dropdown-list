@@ -1,0 +1,1 @@
+$('.navbar_collapse').collapse()
